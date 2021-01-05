@@ -1,0 +1,252 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:21.29,0:00:22.79,Default,,0,0,0,,Excuse me, everyone!
+Dialogue: 0,0:00:22.79,0:00:25.33,Default,,0,0,0,,The elevators have been switched over\Nto an independent power source...
+Dialogue: 0,0:00:25.33,0:00:27.79,Default,,0,0,0,,so they won't stop working due\Nto the power outage.
+Dialogue: 0,0:00:27.79,0:00:29.66,Default,,0,0,0,,Please stay calm and\Nevacuate in an orderly fashion!
+Dialogue: 0,0:00:29.66,0:00:33.29,Default,,0,0,0,,We have an emergency elevator\None floor below!
+Dialogue: 0,0:00:33.29,0:00:35.62,Default,,0,0,0,,Please use that, as well!
+Dialogue: 0,0:00:36.74,0:00:40.24,Default,,0,0,0,,Brother, what shall we do?
+Dialogue: 0,0:00:44.83,0:00:48.66,Default,,0,0,0,,Shizuku, evacuate\Nwith Honoka and your parents.
+Dialogue: 0,0:00:48.66,0:00:51.58,Default,,0,0,0,,Miyuki and I have something to do here.
+Dialogue: 0,0:00:51.58,0:00:54.91,Default,,0,0,0,,Shizuku, Honoka, take these.
+Dialogue: 0,0:00:54.91,0:00:55.99,Default,,0,0,0,,What is it?
+Dialogue: 0,0:00:55.99,0:00:59.45,Default,,0,0,0,,A flight device.\NIt has a low battery capacity...
+Dialogue: 0,0:00:59.45,0:01:02.41,Default,,0,0,0,,so only use it to escape if necessary.
+Dialogue: 0,0:01:02.41,0:01:03.91,Default,,0,0,0,,Got it.
+Dialogue: 0,0:01:03.91,0:01:05.79,Default,,0,0,0,,What about you two?
+Dialogue: 0,0:01:05.79,0:01:09.54,Default,,0,0,0,,Miyuki and I have already prepared\Nsomething for ourselves.
+Dialogue: 0,0:01:11.54,0:01:13.70,Default,,0,0,0,,Tatsuya, be careful.
+Dialogue: 0,0:01:13.70,0:01:15.79,Default,,0,0,0,,You, too, Miyuki. Be careful.
+Dialogue: 0,0:01:18.33,0:01:20.12,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:03:01.12,0:03:05.49,Default,,0,0,0,,Mr. Hayama, how much do you know\Nabout what's going on here?
+Dialogue: 0,0:03:05.49,0:03:11.12,Default,,0,0,0,,I had information beforehand that the\NNew Breed Front was plotting something.
+Dialogue: 0,0:03:11.12,0:03:15.24,Default,,0,0,0,,However, I didn't have\Nany concrete details.
+Dialogue: 0,0:03:15.24,0:03:19.37,Default,,0,0,0,,Then, the family couldn't just turn a blind eye?
+Dialogue: 0,0:03:19.37,0:03:21.12,Default,,0,0,0,,I suppose that's true.
+Dialogue: 0,0:03:21.12,0:03:25.83,Default,,0,0,0,,I would like to prevent this building\Nfrom being destroyed if possible, but...
+Dialogue: 0,0:03:25.83,0:03:28.83,Default,,0,0,0,,Tatsuya, can you protect this building?
+Dialogue: 0,0:03:28.83,0:03:31.41,Default,,0,0,0,,Well...
+Dialogue: 0,0:03:31.41,0:03:33.70,Default,,0,0,0,,Miyuki, is it all right with you?
+Dialogue: 0,0:03:33.70,0:03:36.24,Default,,0,0,0,,Of course, Brother.
+Dialogue: 0,0:03:36.24,0:03:38.99,Default,,0,0,0,,I'll help, too.
+Dialogue: 0,0:03:38.99,0:03:42.58,Default,,0,0,0,,Understood. We'll do it.
+Dialogue: 0,0:03:42.58,0:03:45.87,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:03:45.87,0:03:48.58,Default,,0,0,0,,Please take Sakurai with you.
+Dialogue: 0,0:03:48.58,0:03:54.16,Default,,0,0,0,,She has been trained to be\Nyour personal attendant, Miyuki.
+Dialogue: 0,0:03:54.16,0:04:00.41,Default,,0,0,0,,She is still inexperienced,\Nbut I believe she will be helpful to you.
+Dialogue: 0,0:04:19.54,0:04:22.24,Default,,0,0,0,,Minami Sakurai...
+Dialogue: 0,0:04:22.24,0:04:25.08,Default,,0,0,0,,You seem dependable.
+Dialogue: 0,0:04:25.08,0:04:26.74,Default,,0,0,0,,Protect Miyuki.
+Dialogue: 0,0:04:26.74,0:04:28.62,Default,,0,0,0,,That's your job.
+Dialogue: 0,0:04:29.87,0:04:31.45,Default,,0,0,0,,Certainly!
+Dialogue: 0,0:04:34.08,0:04:37.20,Default,,0,0,0,,Well then, Miyuki, Tatsuya,
+Dialogue: 0,0:04:37.20,0:04:39.58,Default,,0,0,0,,I should get going.
+Dialogue: 0,0:04:41.74,0:04:43.54,Default,,0,0,0,,We'll head downstairs, too.
+Dialogue: 0,0:04:43.54,0:04:48.08,Default,,0,0,0,,You don't mean by the elevator, do you?\NThe emergency stairs?
+Dialogue: 0,0:04:48.08,0:04:50.49,Default,,0,0,0,,No, we're going to jump.
+Dialogue: 0,0:05:02.74,0:05:04.08,Default,,0,0,0,,Let's go!
+Dialogue: 0,0:05:05.95,0:05:07.74,Default,,0,0,0,,Now it's our turn.
+Dialogue: 0,0:05:46.20,0:05:48.79,Default,,0,0,0,,Minami, are you okay?
+Dialogue: 0,0:05:48.79,0:05:53.04,Default,,0,0,0,,Yes. I apologize for being a nuisance.
+Dialogue: 0,0:05:53.04,0:05:54.87,Default,,0,0,0,,All right, let's go.
+Dialogue: 0,0:06:08.74,0:06:12.91,Default,,0,0,0,,Brother, would you tell me the situation?
+Dialogue: 0,0:06:12.91,0:06:16.87,Default,,0,0,0,,Police officers are being shot at from a boat.
+Dialogue: 0,0:06:16.87,0:06:19.49,Default,,0,0,0,,The officers returned fire,\Nand they're engaged in combat.
+Dialogue: 0,0:06:19.49,0:06:22.62,Default,,0,0,0,,It seems the enemy is\Nmore organized than I thought.
+Dialogue: 0,0:06:27.58,0:06:30.95,Default,,0,0,0,,Five terrorists have taken over\Nthe control center.
+Dialogue: 0,0:06:34.79,0:06:38.79,Default,,0,0,0,,Nobody between the second\Nto the 34th underground floors.
+Dialogue: 0,0:06:38.79,0:06:42.29,Default,,0,0,0,,35 people on the 35th floor.
+Dialogue: 0,0:06:42.29,0:06:44.33,Default,,0,0,0,,Nobody on the 36th floor.
+Dialogue: 0,0:06:44.33,0:06:50.45,Default,,0,0,0,,The 35 people on the 35th floor\Nare unconscious or in a half-conscious state.
+Dialogue: 0,0:06:50.45,0:06:52.33,Default,,0,0,0,,Is that Visual Magic?
+Dialogue: 0,0:06:52.33,0:06:53.95,Default,,0,0,0,,It's similar.
+Dialogue: 0,0:06:53.95,0:06:59.04,Default,,0,0,0,,Five members of the New Breed Front\Nhave penetrated the building?
+Dialogue: 0,0:06:59.04,0:07:01.12,Default,,0,0,0,,That's surprisingly few.
+Dialogue: 0,0:07:01.12,0:07:02.37,Default,,0,0,0,,Well,
+Dialogue: 0,0:07:02.37,0:07:07.12,Default,,0,0,0,,it's possible that some of the 35 people\Nare actually terrorists.
+Dialogue: 0,0:07:07.12,0:07:08.58,Default,,0,0,0,,True.
+Dialogue: 0,0:07:08.58,0:07:15.54,Default,,0,0,0,,I could tell through direct contact with them,\Nbut I can't be sure just by sight alone.
+Dialogue: 0,0:07:15.54,0:07:20.95,Default,,0,0,0,,I wonder if the terrorists will keep their word\Nand give everyone enough time to evacuate.
+Dialogue: 0,0:07:20.95,0:07:24.74,Default,,0,0,0,,If many civilians are caught up\Nin the building's destruction,
+Dialogue: 0,0:07:24.74,0:07:28.66,Default,,0,0,0,,they'll lose the support of magicians\Nas well as the general public.
+Dialogue: 0,0:07:28.66,0:07:31.33,Default,,0,0,0,,If they're reasonable enough\Nto comprehend that,
+Dialogue: 0,0:07:31.33,0:07:33.91,Default,,0,0,0,,I believe they'll wait\Nuntil the evacuation is over.
+Dialogue: 0,0:07:37.87,0:07:40.20,Default,,0,0,0,,The terrorists?
+Dialogue: 0,0:07:40.20,0:07:42.58,Default,,0,0,0,,No, an earthquake!
+Dialogue: 0,0:07:54.79,0:07:57.08,Default,,0,0,0,,The elevator has stopped?
+Dialogue: 0,0:07:57.08,0:07:59.62,Default,,0,0,0,,There's nothing to worry about.\NIt'll start up again soon.
+Dialogue: 0,0:07:59.62,0:08:02.29,Default,,0,0,0,,{\fs30\bord0\fnOpen Sans Extrabold\pos(538,130)}ARTHQUAKE WARNING
+Dialogue: 0,0:07:59.62,0:08:02.29,Default,,0,0,0,,{\fs30\bord0\fnOpen Sans Extrabold\pos(600,224)}AN M5.4 EARTHQUAKE OCCURRED IN\NTOKYO BAY AT A DEPTH OF 10 KM.\NTHE SEISMIC INTENSITY IS LEVEL 4.
+Dialogue: 0,0:08:01.04,0:08:02.74,Default,,0,0,0,,This is bad.
+Dialogue: 0,0:08:02.74,0:08:04.29,Default,,0,0,0,,Brother?
+Dialogue: 0,0:08:04.29,0:08:05.91,Default,,0,0,0,,The seismic intensity is level 4.
+Dialogue: 0,0:08:05.91,0:08:09.79,Default,,0,0,0,,The elevator won't start running again\Nwithout manual operation.
+Dialogue: 0,0:08:09.79,0:08:13.91,Default,,0,0,0,,Are Honoka and Shizuku\Nstill on the elevator?
+Dialogue: 0,0:08:18.49,0:08:23.62,Default,,0,0,0,,They're between the 180th and 181st floors.
+Dialogue: 0,0:08:23.62,0:08:28.74,Default,,0,0,0,,They should be able to get to the 180th floor\Nwhich is closest to them,
+Dialogue: 0,0:08:28.74,0:08:32.37,Default,,0,0,0,,but that's nearly a thousand meters\Naway from the ground.
+Dialogue: 0,0:08:32.37,0:08:34.29,Default,,0,0,0,,Can't we do something?
+Dialogue: 0,0:08:34.29,0:08:37.24,Default,,0,0,0,,If we can get to the control center\Nof the first underground floor...
+Dialogue: 0,0:08:37.24,0:08:41.24,Default,,0,0,0,,I think I can restart the elevator remotely.
+Dialogue: 0,0:08:41.24,0:08:44.91,Default,,0,0,0,,Except there are terrorists\Nin the control center.
+Dialogue: 0,0:08:44.91,0:08:47.83,Default,,0,0,0,,Still, that's the only way.
+Dialogue: 0,0:08:49.91,0:08:53.16,Default,,0,0,0,,Let's try negotiating with them first.
+Dialogue: 0,0:08:55.45,0:08:57.08,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1D3EDF&\pos(702,68)}VISITOR ARC XIII
+Dialogue: 0,0:09:24.54,0:09:26.66,Default,,0,0,0,,Who's your leader?
+Dialogue: 0,0:09:26.66,0:09:28.37,Default,,0,0,0,,I want to talk.
+Dialogue: 0,0:09:37.20,0:09:40.41,Default,,0,0,0,,I'm the leader, Kan Fehr.
+Dialogue: 0,0:09:40.41,0:09:42.87,Default,,0,0,0,,My name is Tatsuya Shiba.
+Dialogue: 0,0:09:42.87,0:09:47.37,Default,,0,0,0,,I'd like you to let me use the control center\Nso I can restart the elevator
+Dialogue: 0,0:09:47.37,0:09:50.04,Default,,0,0,0,,which came to an emergency stop\Nbecause of the earthquake.
+Dialogue: 0,0:09:54.54,0:09:58.04,Default,,0,0,0,,We have confirmed\Nthat the elevator has indeed stopped.
+Dialogue: 0,0:09:58.04,0:10:03.83,Default,,0,0,0,,But I can't allow you access\Nto the control center. We'll deal with it.
+Dialogue: 0,0:10:03.83,0:10:05.70,Default,,0,0,0,,You say you'll deal with it,
+Dialogue: 0,0:10:05.70,0:10:11.04,Default,,0,0,0,,but do you have someone with the\Ntechnical skill to remotely restart the elevator?
+Dialogue: 0,0:10:11.04,0:10:15.58,Default,,0,0,0,,This is an urgent situation.\NI can release the lock in five minutes.
+Dialogue: 0,0:10:15.58,0:10:19.45,Default,,0,0,0,,As long as there is any suspicion\Nthat you are our enemy,
+Dialogue: 0,0:10:19.45,0:10:22.54,Default,,0,0,0,,I can't permit you\Nto enter the control center.
+Dialogue: 0,0:10:22.54,0:10:28.08,Default,,0,0,0,,Why? Are you using the center's equipment\Nto control the explosives?
+Dialogue: 0,0:10:30.20,0:10:31.74,Default,,0,0,0,,Go away!
+Dialogue: 0,0:10:31.74,0:10:38.20,Default,,0,0,0,,If you quietly return to the surface with the\Ntwo young ladies hiding there, we won't attack.
+Dialogue: 0,0:10:58.04,0:11:02.45,Default,,0,0,0,,You pointed your guns at me.\NI would never overlook that.
+Dialogue: 0,0:11:02.45,0:11:03.79,Default,,0,0,0,,Kill them!
+Dialogue: 0,0:12:24.37,0:12:26.37,Default,,0,0,0,,What's happening?
+Dialogue: 0,0:12:26.37,0:12:28.62,Default,,0,0,0,,Resonance Destruction was used...
+Dialogue: 0,0:12:28.62,0:12:32.33,Default,,0,0,0,,to destroy the tower's pillars.
+Dialogue: 0,0:12:32.33,0:12:34.79,Default,,0,0,0,,I lost, but...
+Dialogue: 0,0:12:34.79,0:12:37.08,Default,,0,0,0,,you can't stop...
+Dialogue: 0,0:12:37.08,0:12:39.62,Default,,0,0,0,,the destruction of this building.
+Dialogue: 0,0:12:43.87,0:12:48.24,Default,,0,0,0,,Hiroshi Misaki.\NThis man is an extra from Third?
+Dialogue: 0,0:12:48.91,0:12:51.54,Default,,0,0,0,,An extra from the Third Research Institute?
+Dialogue: 0,0:12:51.54,0:12:53.58,Default,,0,0,0,,The focus of their research
+Dialogue: 0,0:12:53.58,0:12:59.49,Default,,0,0,0,,is how to control multiple types of magic\Nwhen they're activated simultaneously, right?
+Dialogue: 0,0:12:59.49,0:13:06.83,Default,,0,0,0,,Then, while fighting us, was he releasing magic\Ndeep underground to destroy the building?
+Dialogue: 0,0:13:06.83,0:13:12.08,Default,,0,0,0,,No, he wasn't the one using magic\Nbut had someone else use it.
+Dialogue: 0,0:13:12.08,0:13:14.12,Default,,0,0,0,,Had someone else?
+Dialogue: 0,0:13:14.12,0:13:18.37,Default,,0,0,0,,Are you saying that he was controlling\Nsomeone else's zone of magic operations?
+Dialogue: 0,0:13:18.37,0:13:20.29,Default,,0,0,0,,Not controlling it.
+Dialogue: 0,0:13:20.29,0:13:23.45,Default,,0,0,0,,The other person was in agreement\Nand attuned to him.
+Dialogue: 0,0:13:23.45,0:13:25.66,Default,,0,0,0,,There's a Sensory Interference Magic spell
+Dialogue: 0,0:13:25.66,0:13:30.70,Default,,0,0,0,,that can be used to guide a magician\Ninto a hypnotic state and have them use magic.
+Dialogue: 0,0:13:30.70,0:13:36.33,Default,,0,0,0,,That's the type of magic he used.
+Dialogue: 0,0:13:36.33,0:13:37.91,Default,,0,0,0,,Miyuki, Minami...
+Dialogue: 0,0:13:37.91,0:13:39.70,Default,,0,0,0,,Yes?
+Dialogue: 0,0:13:39.70,0:13:42.33,Default,,0,0,0,,We're going to the lowest level. Follow me.
+Dialogue: 0,0:13:42.33,0:13:46.37,Default,,0,0,0,,Right. Um, Brother, what about the elevator?
+Dialogue: 0,0:13:46.37,0:13:48.70,Default,,0,0,0,,Unfortunately, we'll have to put that off.
+Dialogue: 0,0:13:48.70,0:13:52.95,Default,,0,0,0,,Keeping the building itself\Nfrom collapsing takes priority.
+Dialogue: 0,0:13:52.95,0:13:54.16,Default,,0,0,0,,Right.
+Dialogue: 0,0:15:18.79,0:15:19.99,Default,,0,0,0,,It's crumbling?
+Dialogue: 0,0:15:35.49,0:15:42.54,Default,,0,0,0,,By only restoring one of the pillars,\Nthe other three are bearing the load.
+Dialogue: 0,0:15:42.54,0:15:44.33,Default,,0,0,0,,At this rate...
+Dialogue: 0,0:15:48.16,0:15:52.95,Default,,0,0,0,,No good. Even if I cast Regrowth,\Nthe same thing would happen all over again.
+Dialogue: 0,0:15:52.95,0:15:55.91,Default,,0,0,0,,What I'd need to do is cast Regrowth\Non all four pillars at the same time
+Dialogue: 0,0:15:55.91,0:16:01.74,Default,,0,0,0,,which are well over 2000\Nmeters to restore them fully.
+Dialogue: 0,0:16:01.74,0:16:07.04,Default,,0,0,0,,But that'd be equivalent to casting\NRegrowth on this entire gigantic building.
+Dialogue: 0,0:16:07.04,0:16:11.95,Default,,0,0,0,,Would my brain be able to withstand\Nthe vast amount of information?
+Dialogue: 0,0:16:23.33,0:16:25.66,Default,,0,0,0,,The building will collapse in no time now.
+Dialogue: 0,0:16:25.66,0:16:29.58,Default,,0,0,0,,Should we escape for Miyuki's sake?
+Dialogue: 0,0:16:32.20,0:16:33.83,Default,,0,0,0,,Brother...
+Dialogue: 0,0:16:35.24,0:16:36.79,Default,,0,0,0,,That's right.
+Dialogue: 0,0:16:36.79,0:16:40.83,Default,,0,0,0,,There are two things I can never betray.
+Dialogue: 0,0:16:40.83,0:16:45.74,Default,,0,0,0,,The first is the vow I made to myself\Nto protect Miyuki to the end.
+Dialogue: 0,0:16:47.62,0:16:50.08,Default,,0,0,0,,And the second is...
+Dialogue: 0,0:16:50.08,0:16:52.58,Default,,0,0,0,,the faith Miyuki has in me.
+Dialogue: 0,0:17:07.66,0:17:09.62,Default,,0,0,0,,Eidos history change...
+Dialogue: 0,0:17:09.62,0:17:11.04,Default,,0,0,0,,obtained.
+Dialogue: 0,0:17:15.62,0:17:17.87,Default,,0,0,0,,Tower structural information...
+Dialogue: 0,0:17:17.87,0:17:19.24,Default,,0,0,0,,obtained.
+Dialogue: 0,0:17:31.54,0:17:34.66,Default,,0,0,0,,Information of materials, obtained.
+Dialogue: 0,0:17:52.70,0:17:55.04,Default,,0,0,0,,Integrating all...
+Dialogue: 0,0:17:55.04,0:17:56.45,Default,,0,0,0,,information.
+Dialogue: 0,0:17:56.45,0:17:57.83,Default,,0,0,0,,Build...
+Dialogue: 0,0:17:57.83,0:17:59.74,Default,,0,0,0,,with the magic spell Regrowth.
+Dialogue: 0,0:18:03.04,0:18:06.29,Default,,0,0,0,,Activate, Regrowth!
+Dialogue: 0,0:18:42.33,0:18:46.24,Default,,0,0,0,,This is Tatsuya's power.
+Dialogue: 0,0:18:46.24,0:18:49.45,Default,,0,0,0,,Was this the deed of a human?
+Dialogue: 0,0:18:49.45,0:18:53.91,Default,,0,0,0,,Should humans be allowed\Nto have such power?
+Dialogue: 0,0:18:57.45,0:19:01.04,Default,,0,0,0,,Brother? Brother? Brother?
+Dialogue: 0,0:19:03.24,0:19:04.95,Default,,0,0,0,,I'm fine.
+Dialogue: 0,0:19:04.95,0:19:06.79,Default,,0,0,0,,I'm conscious.
+Dialogue: 0,0:19:08.37,0:19:11.79,Default,,0,0,0,,But I'm tired.
+Dialogue: 0,0:19:11.79,0:19:14.16,Default,,0,0,0,,It's no wonder.
+Dialogue: 0,0:19:14.16,0:19:18.79,Default,,0,0,0,,Brother, I'll wake you up\Nafter things are settled here,
+Dialogue: 0,0:19:18.79,0:19:21.79,Default,,0,0,0,,so please rest for a while.
+Dialogue: 0,0:19:21.79,0:19:23.37,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:19:23.37,0:19:25.87,Default,,0,0,0,,I'll do just that.
+Dialogue: 0,0:19:52.58,0:19:55.50,Default,,0,0,0,,{\fad(0,500)\shad2\fs34\bord0\fnOpen Sans\b0\3c&H000000&\u1\c&HFFFFFF&\4c&H000000&\pos(320,92)}YOTSUBA MAIN RESIDENCE
+Dialogue: 0,0:19:54.24,0:19:59.66,Default,,0,0,0,,So, Tatsuya rescued everyone\Nfrom the precarious situation this time.
+Dialogue: 0,0:19:59.66,0:20:02.66,Default,,0,0,0,,I am ashamed of myself, ma'am.
+Dialogue: 0,0:20:02.66,0:20:07.74,Default,,0,0,0,,So, did you give Tatsuya\Nthe background on this incident?
+Dialogue: 0,0:20:07.74,0:20:10.66,Default,,0,0,0,,No, I didn't tell him anything.
+Dialogue: 0,0:20:10.66,0:20:12.66,Default,,0,0,0,,He didn't ask you?
+Dialogue: 0,0:20:12.66,0:20:17.54,Default,,0,0,0,,No. After he turned\Nthe terrorists over to us,
+Dialogue: 0,0:20:17.54,0:20:21.62,Default,,0,0,0,,he escorted Miyuki home\Nwithout asking me a thing.
+Dialogue: 0,0:20:21.62,0:20:22.83,Default,,0,0,0,,Not one question?
+Dialogue: 0,0:20:22.83,0:20:24.12,Default,,0,0,0,,No, ma'am.
+Dialogue: 0,0:20:24.12,0:20:32.08,Default,,0,0,0,,However, this is just my speculation,\Nbut I suspect Tatsuya already knows everything.
+Dialogue: 0,0:20:32.08,0:20:34.24,Default,,0,0,0,,That could be.
+Dialogue: 0,0:20:34.24,0:20:37.33,Default,,0,0,0,,By the way, what is Minami doing now?
+Dialogue: 0,0:20:37.33,0:20:41.04,Default,,0,0,0,,Sakurai is sleeping in her room.
+Dialogue: 0,0:20:41.04,0:20:44.95,Default,,0,0,0,,Did you give that thing to her?
+Dialogue: 0,0:20:44.95,0:20:47.58,Default,,0,0,0,,Yes. It's in her possession now.
+Dialogue: 0,0:20:47.58,0:20:51.45,Default,,0,0,0,,I see. This is something to look forward to.
+Dialogue: 0,0:20:51.72,0:20:54.66,Default,,0,0,0,,{\fad(0,500)\shad2\fs34\bord0\fnOpen Sans\b0\3c&H000000&\u1\c&HFFFFFF&\4c&H000000&\pos(238,92)\clip(138,44,262,150)\t(0,50,\clip(138,44,342,150))}APRIL 8, 2096
+Dialogue: 0,0:21:03.54,0:21:07.54,Default,,0,0,0,,{\an8}"NATIONAL MAGIC UNIVERSITY\NAFFILIATED FIRST HIGH SCHOOL\N32nd ENTRANCE CEREMONY"
+Dialogue: 0,0:21:08.79,0:21:09.83,Default,,0,0,0,,So...
+Dialogue: 0,0:21:09.83,0:21:11.74,Default,,0,0,0,,please guard the premises.
+Dialogue: 0,0:21:11.74,0:21:13.83,Default,,0,0,0,,Sure, you can count on me.
+Dialogue: 0,0:21:13.83,0:21:16.70,Default,,0,0,0,,I'm going to escort the new students in.
+Dialogue: 0,0:21:20.74,0:21:24.83,Default,,0,0,0,,Well, I wonder if there are any new students\Nthis year with any backbone.
+Dialogue: 0,0:21:24.83,0:21:29.16,Default,,0,0,0,,You're evaluating new students on the day\Nof the entrance ceremony? You scare me.
+Dialogue: 0,0:21:29.16,0:21:31.58,Default,,0,0,0,,{\an8}What? You're so rude!
+Dialogue: 0,0:21:30.18,0:21:31.01,Default,,0,0,0,,Mizuki...
+Dialogue: 0,0:21:31.58,0:21:34.37,Default,,0,0,0,,Tatsuya? What's wrong?
+Dialogue: 0,0:21:34.37,0:21:38.41,Default,,0,0,0,,Keep an eye on those two.\NMake sure they don't cause a scene.
+Dialogue: 0,0:21:38.41,0:21:39.74,Default,,0,0,0,,Will do.
+Dialogue: 0,0:21:39.74,0:21:40.95,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:21:46.83,0:21:48.91,Default,,0,0,0,,Oh, Tatsuya...
+Dialogue: 0,0:21:51.29,0:21:52.79,Default,,0,0,0,,Long time no see.
+Dialogue: 0,0:21:52.79,0:21:54.74,Default,,0,0,0,,Well, not really long.
+Dialogue: 0,0:21:54.74,0:21:56.37,Default,,0,0,0,,Saegusa?
+Dialogue: 0,0:21:56.37,0:21:57.70,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:21:57.70,0:21:59.45,Default,,0,0,0,,You're a guide for the new students?
+Dialogue: 0,0:21:59.45,0:22:00.33,Default,,0,0,0,,That's right.
+Dialogue: 0,0:22:00.33,0:22:01.87,Default,,0,0,0,,Sister!
+Dialogue: 0,0:22:01.87,0:22:03.41,Default,,0,0,0,,Who's that?
+Dialogue: 0,0:22:03.41,0:22:07.58,Default,,0,0,0,,C-Cut it out, Kasumi!\NYou're being rude to an upperclassman!
+Dialogue: 0,0:22:07.58,0:22:11.16,Default,,0,0,0,,Izumi is right.\NApologize to Tatsuya!
+Dialogue: 0,0:22:11.16,0:22:13.33,Default,,0,0,0,,I'm asking who he is!
+Dialogue: 0,0:22:13.33,0:22:16.79,Default,,0,0,0,,You two seem awfully close.\NIs he your boyfriend, Sister?
+Dialogue: 0,0:22:16.79,0:22:19.16,Default,,0,0,0,,B-B-Boy...
+Dialogue: 0,0:22:19.16,0:22:22.62,Default,,0,0,0,,Did you escort your younger sisters here?
+Dialogue: 0,0:22:22.62,0:22:24.87,Default,,0,0,0,,The auditorium is already open.
+Dialogue: 0,0:22:24.87,0:22:27.49,Default,,0,0,0,,You two should go in.
+Dialogue: 0,0:22:27.49,0:22:29.54,Default,,0,0,0,,You can sit where you like.
+Dialogue: 0,0:22:29.54,0:22:32.16,Default,,0,0,0,,Okay. Thank you.
+Dialogue: 0,0:22:32.16,0:22:36.41,Default,,0,0,0,,Well, Saegusa, I'd better get going.
+Dialogue: 0,0:22:36.41,0:22:37.95,Default,,0,0,0,,Nyaaa!
+Dialogue: 0,0:22:44.45,0:22:45.87,Default,,0,0,0,,Brother!
+Dialogue: 0,0:22:48.12,0:22:49.54,Default,,0,0,0,,Miyuki...
+Dialogue: 0,0:22:54.16,0:22:56.91,Default,,0,0,0,,Are you a student now\Nat First High School...
+Dialogue: 0,0:22:58.49,0:22:59.95,Default,,0,0,0,,Minami?
+Dialogue: 0,0:23:02.99,0:23:06.66,Default,,0,0,0,,Master Tatsuya, a letter from Madam.
+Dialogue: 0,0:23:21.37,0:23:23.79,Default,,0,0,0,,Oh...
+Dialogue: 0,0:23:23.79,0:23:25.16,Default,,0,0,0,,Minami...
+Dialogue: 0,0:23:25.16,0:23:27.91,Default,,0,0,0,,From now on,\Nyou're going to live with us, huh?
+Dialogue: 0,0:23:27.91,0:23:29.83,Default,,0,0,0,,That's what it means.
+Dialogue: 0,0:23:31.79,0:23:34.54,Default,,0,0,0,,We're glad to have you, Minami.
+Dialogue: 0,0:23:34.54,0:23:37.37,Default,,0,0,0,,No, I appreciate you letting me stay.
